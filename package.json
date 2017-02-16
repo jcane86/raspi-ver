@@ -1,0 +1,49 @@
+{
+  "name": "rpi-version",
+  "version": "0.0.1",
+  "description": "Check your rpi board version and other bits programatically.",
+  "homepage": "http://github.com/jcane86/rpi-version",
+  "keywords": [
+    "rpi-version",
+    "raspberry",
+    "raspberr-pi",
+    "pi",
+    "version"
+  ],
+  "author": {
+    "name": "J. Cane",
+    "email": "jcane86@gmail.com",
+    "url": "www.github.com/jcane86"
+  },
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/jcane86/rpi-version"
+  },
+  "bugs": {
+    "mail": "jcane86@gmail.com",
+    "url": "http://github.com/jcane86/rpi-version/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "~1.8.1",
+    "mocha": "~1.17.0",
+    "proxyquire": "^1.7.11"
+  },
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "engines": {
+    "node": ">=0.4.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/jcane86/rpi-version/raw/master/LICENSE"
+    }
+  ]
+}
