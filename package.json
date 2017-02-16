@@ -1,6 +1,6 @@
 {
   "name": "rpi-version",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Check your rpi board version and other bits programatically.",
   "homepage": "http://github.com/jcane86/rpi-version",
   "keywords": [
