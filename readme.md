@@ -1,4 +1,4 @@
-# RasPi-Ver [![Build Status](https://secure.travis-ci.org/jcane86/raspi-ver.png)](http://travis-ci.org/jcane86/raspi-ver)
+# RasPi-Ver [![npm version](https://badge.fury.io/js/raspi-ver.svg)](https://badge.fury.io/js/raspi-ver)[![Build Status](https://secure.travis-ci.org/jcane86/raspi-ver.png)](http://travis-ci.org/jcane86/raspi-ver)
 
 > A quick programatic check for your Raspberry Pi board revision, memory and other bits.
 
