@@ -1,17 +1,17 @@
-# RPi-Version [![Build Status](https://secure.travis-ci.org/jcane86/rpi-version.png)](http://travis-ci.org/jcane86/rpi-version)
+# RasPi-Ver [![Build Status](https://secure.travis-ci.org/jcane86/raspi-ver.png)](http://travis-ci.org/jcane86/raspi-ver)
 
 > A quick programatic check for your Raspberry Pi board revision, memory and other bits.
 
 
 ## Installation
 
-`npm install --save-dev rpi-version`
+`npm install --save-dev raspi-ver`
 
 ## Usage
 
  Require in your own modules, and directly access the exposed properties.
  
-    let rpi = require('rpi-version);
+    let rpi = require('raspi-ver);
  
     if (rpi.model === "Model B"){
  

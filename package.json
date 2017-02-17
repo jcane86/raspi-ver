@@ -1,10 +1,10 @@
 {
-  "name": "rpi-version",
-  "version": "0.0.1",
+  "name": "raspi-ver",
+  "version": "1.0.0",
   "description": "Check your rpi board version and other bits programatically.",
-  "homepage": "http://github.com/jcane86/rpi-version",
+  "homepage": "http://github.com/jcane86/raspi-ver",
   "keywords": [
-    "rpi-version",
+    "raspi-ver",
     "raspberry",
     "raspberr-pi",
     "pi",
@@ -18,17 +18,17 @@
   "contributors": [],
   "repository": {
     "type": "git",
-    "url": "http://github.com/jcane86/rpi-version"
+    "url": "http://github.com/jcane86/raspi-ver"
   },
   "bugs": {
     "mail": "jcane86@gmail.com",
-    "url": "http://github.com/jcane86/rpi-version/issues"
+    "url": "http://github.com/jcane86/raspi-ver/issues"
   },
   "dependencies": {},
   "devDependencies": {
     "chai": "~1.8.1",
     "mocha": "~1.17.0",
-    "proxyquire": "^1.7.11"
+    "proxyquire": "*"
   },
   "files": [
     "lib"
@@ -43,7 +43,7 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/jcane86/rpi-version/raw/master/LICENSE"
+      "url": "http://github.com/jcane86/raspi-ver/raw/master/LICENSE"
     }
   ]
 }
