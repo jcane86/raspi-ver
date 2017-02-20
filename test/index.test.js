@@ -47,7 +47,12 @@ describe('my module', function( done ) {
             var rpi = proxyquire('../lib/index.js', {
                 'fs': {
                     readFileSync: function () {       // console.log('Revision :    ' + revision);
-                        return 'Revision :    ' + rev;
+                        file = 'CPU revision	: 4\n';
+                        file += '\n';
+                        file += 'Hardware	: BCM2709\n';
+                        file += 'Revision	: ' + revision + '\n';
+                        file += 'Serial		: 000000000c730274\n';
+                        return file;
                     }
                 }
             });
