@@ -1,4 +1,11 @@
 {
+   "a020d3": {
+      "relDate": "Q1 2018",
+      "model": "3 model B+",
+      "PCBRev": "1.3",
+      "memory": "1 GB",
+      "notes": "(Mfg by Sony)"
+   },
    "900021": {
       "relDate": "Q3 2016",
       "model": "A+",
