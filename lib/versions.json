@@ -34,6 +34,13 @@
       "memory": "512 MB",
       "notes": "(Mfg by Embest)"
    },
+   "9000c1": {
+      "relDate": "Q1 2017",
+      "model": "Zero W",
+      "PCBRev": "1.1",
+      "memory": "512 MB",
+      "notes": "(Mfg by Sony)"
+   },
    "a32082": {
       "relDate": "Q4 2016",
       "model": "3 model B",
