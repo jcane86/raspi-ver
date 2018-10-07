@@ -33,7 +33,7 @@ The exposed properties of the module.
 
 ## Acknowledgement
 
-All the info returned by the module was taken from [elinux.org](http://elinux.org/RPi_HardwareHistory#Board_Revision_History). Thank you!
+All the info returned by the module was taken from [elinux.org](http://elinux.org/RPi_HardwareHistory#Board_Revision_History) and [raspberrypi.org](https://www.raspberrypi.org/documentation/hardware/raspberrypi/revision-codes/README.md). Thank you!
 
 ## LICENSE
 
