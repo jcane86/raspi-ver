@@ -1,10 +1,7 @@
 language: node_js
 node_js:
+  - v10
+  - v9
   - v7
   - v6
-  - v5
-  - v4
-  - "0.8"
-  - "0.10"
-  - "0.11"
 before_install: if [[ `npm -v` != 3* ]]; then npm i -g npm@3; fi
