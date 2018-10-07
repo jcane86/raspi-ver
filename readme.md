@@ -11,9 +11,9 @@
 
  Require in your own modules, and directly access the exposed properties.
  
-    let rpi = require('raspi-ver);
+    let rpi = require('raspi-ver');
  
-    if (rpi.model === "Model B"){
+    if (rpi.model === "Model B") {
  
         console.log("PROFIT");
  
