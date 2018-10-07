@@ -1,6 +1,6 @@
 {
   "name": "raspi-ver",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Check your rpi board version and other bits programatically.",
   "homepage": "http://github.com/jcane86/raspi-ver",
   "keywords": [
