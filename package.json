@@ -1,6 +1,6 @@
 {
   "name": "raspi-ver",
-  "version": "1.0.5",
+  "version": "0.0.0-development",
   "description": "Check your rpi board version and other bits programatically.",
   "homepage": "http://github.com/jcane86/raspi-ver",
   "keywords": [
@@ -18,7 +18,7 @@
   "contributors": [],
   "repository": {
     "type": "git",
-    "url": "http://github.com/jcane86/raspi-ver"
+    "url": "https://github.com/jcane86/raspi-ver"
   },
   "bugs": {
     "mail": "jcane86@gmail.com",
@@ -28,14 +28,16 @@
   "devDependencies": {
     "chai": "~1.8.1",
     "mocha": "~1.17.0",
-    "proxyquire": "*"
+    "proxyquire": "*",
+    "semantic-release": "^15.13.3"
   },
   "files": [
     "lib"
   ],
   "main": "lib/index.js",
   "scripts": {
-    "test": "./node_modules/.bin/mocha --reporter spec"
+    "test": "./node_modules/.bin/mocha --reporter spec",
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
   "engines": {
     "node": ">=0.4.0"

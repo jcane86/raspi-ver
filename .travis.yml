@@ -1,6 +1,17 @@
 language: node_js
+cache:
+  directories:
+    - ~/.npm
+notifications:
+  email: false
 node_js:
-  - v10
-  - v9
-  - v7
-  - v6
+  - '10'
+  - '9'
+  - '8'
+  - '6'
+  - '4'
+after_success:
+  - npm run semantic-release
+branches:
+  except:
+    - /^v\d+\.\d+\.\d+$/
