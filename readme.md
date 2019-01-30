@@ -1,4 +1,4 @@
-# RasPi-Ver [![npm version](https://badge.fury.io/js/raspi-ver.svg)](https://badge.fury.io/js/raspi-ver)[![semantic-release](https://github.com/semantic-release/semantic-release)](https://github.com/semantic-release/semantic-release)[![Build Status](https://secure.travis-ci.org/jcane86/raspi-ver.png)](http://travis-ci.org/jcane86/raspi-ver)
+# RasPi-Ver [![npm version](https://badge.fury.io/js/raspi-ver.svg)](https://badge.fury.io/js/raspi-ver)[![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)[![Build Status](https://secure.travis-ci.org/jcane86/raspi-ver.png)](http://travis-ci.org/jcane86/raspi-ver)
 
 > A quick programatic check for your Raspberry Pi board revision, memory and other bits.
 
