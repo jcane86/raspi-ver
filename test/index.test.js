@@ -40,6 +40,24 @@ describe('my module', function( done ) {
         done();
     });
 
+    it('should identify an overclocked device', function() {
+        ['10000002', '1920093'].forEach(function(revision) {
+            var rpi = proxyquire('../lib/index.js', {
+                'fs': {
+                    readFileSync: function () {
+                        return 'Revision :    ' + revision;
+                    }
+                }
+            });
+            expect(rpi.revision).to.exist;
+            expect(rpi.relDate).to.exist;
+            expect(rpi.model).to.exist;
+            expect(rpi.PCBRev).to.exist;
+            expect(rpi.memory).to.exist;
+            expect(rpi.notes).to.exist;
+        });
+    });
+
     var rev = "";
     for (revision in versions){
         rev = revision;
