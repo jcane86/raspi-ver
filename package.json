@@ -29,7 +29,7 @@
     "chai": "~1.8.1",
     "mocha": "~1.17.0",
     "proxyquire": "*",
-    "semantic-release": "^15.13.3"
+    "semantic-release": ">=17.2.3"
   },
   "files": [
     "lib"
