@@ -1,6 +1,27 @@
 {
+   "c03130": {
+      "relDate": "Q2 2020",
+      "model": "Pi 400",
+      "PCBRev": "1.0",
+      "memory": "4GB",
+      "notes": "Sony UK"
+   },
+   "d03114": {
+      "relDate": "Q2 2020",
+      "model": "4 model B",
+      "PCBRev": "1.4",
+      "memory": "8GB",
+      "notes": "(Mfg by Sony)"
+   },
+   "c03114": {
+      "relDate": "Q2 2020",
+      "model": "4 model B",
+      "PCBRev": "1.4",
+      "memory": "4GB",
+      "notes": "(Mfg by Sony)"
+   },
    "c03112": {
-      "relDate": "Q4 2019",
+      "relDate": "Q2 2019",
       "model": "4 model B",
       "PCBRev": "1.2",
       "memory": "4GB",
@@ -12,6 +33,20 @@
       "PCBRev": "1.1",
       "memory": "4GB",
       "notes": ""
+   },
+   "b03114": {
+      "relDate": "Q2 2020",
+      "model": "4 model B",
+      "PCBRev": "1.4",
+      "memory": "2GB",
+      "notes": "(Mfg by Sony)"
+   },
+   "b03112": {
+      "relDate": "Q2 2019",
+      "model": "4 model B",
+      "PCBRev": "1.2",
+      "memory": "2GB",
+      "notes": "(Mfg by Sony)"
    },
    "b03111": {
       "relDate": "Q2 2019",
