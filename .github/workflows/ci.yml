@@ -8,7 +8,7 @@ on:
 
 permissions:
   id-token: write # Required for OIDC / Trusted Publishing
-  contents: read  # Required for semantic-release
+  contents: write  # Required for semantic-release to push tags
   issues: write
   pull-requests: write
 
