@@ -1,9 +1,191 @@
 {
+   "e041a0": {
+      "relDate": "Q4 2024",
+      "model": "CM5 Lite",
+      "PCBRev": "1.0",
+      "memory": "16GB",
+      "notes": "Sony UK"
+   },
+   "d041a0": {
+      "relDate": "Q4 2024",
+      "model": "CM5 Lite",
+      "PCBRev": "1.0",
+      "memory": "8GB",
+      "notes": "Sony UK"
+   },
+   "c041a0": {
+      "relDate": "Q4 2024",
+      "model": "CM5 Lite",
+      "PCBRev": "1.0",
+      "memory": "4GB",
+      "notes": "Sony UK"
+   },
+   "b041a0": {
+      "relDate": "Q4 2024",
+      "model": "CM5 Lite",
+      "PCBRev": "1.0",
+      "memory": "2GB",
+      "notes": "Sony UK"
+   },
+   "e04190": {
+      "relDate": "Q1 2025",
+      "model": "500+",
+      "PCBRev": "1.0",
+      "memory": "16GB",
+      "notes": "Sony UK"
+   },
+   "d04190": {
+      "relDate": "Q4 2024",
+      "model": "500",
+      "PCBRev": "1.0",
+      "memory": "8GB",
+      "notes": "Sony UK"
+   },
+   "e04180": {
+      "relDate": "Q4 2024",
+      "model": "CM5",
+      "PCBRev": "1.0",
+      "memory": "16GB",
+      "notes": "Sony UK"
+   },
+   "d04180": {
+      "relDate": "Q4 2024",
+      "model": "CM5",
+      "PCBRev": "1.0",
+      "memory": "8GB",
+      "notes": "Sony UK"
+   },
+   "c04180": {
+      "relDate": "Q4 2024",
+      "model": "CM5",
+      "PCBRev": "1.0",
+      "memory": "4GB",
+      "notes": "Sony UK"
+   },
+   "b04180": {
+      "relDate": "Q4 2024",
+      "model": "CM5",
+      "PCBRev": "1.0",
+      "memory": "2GB",
+      "notes": "Sony UK"
+   },
+   "e04171": {
+      "relDate": "Q2 2025",
+      "model": "5",
+      "PCBRev": "1.1",
+      "memory": "16GB",
+      "notes": "Sony UK"
+   },
+   "d04171": {
+      "relDate": "Q2 2025",
+      "model": "5",
+      "PCBRev": "1.1",
+      "memory": "8GB",
+      "notes": "Sony UK"
+   },
+   "c04171": {
+      "relDate": "Q2 2025",
+      "model": "5",
+      "PCBRev": "1.1",
+      "memory": "4GB",
+      "notes": "Sony UK"
+   },
+   "b04171": {
+      "relDate": "Q2 2025",
+      "model": "5",
+      "PCBRev": "1.1",
+      "memory": "2GB",
+      "notes": "Sony UK"
+   },
+   "a04171": {
+      "relDate": "Q2 2025",
+      "model": "5",
+      "PCBRev": "1.1",
+      "memory": "1GB",
+      "notes": "Sony UK"
+   },
+   "d04170": {
+      "relDate": "Q4 2023",
+      "model": "5",
+      "PCBRev": "1.0",
+      "memory": "8GB",
+      "notes": "Sony UK"
+   },
+   "c04170": {
+      "relDate": "Q4 2023",
+      "model": "5",
+      "PCBRev": "1.0",
+      "memory": "4GB",
+      "notes": "Sony UK"
+   },
+   "b04170": {
+      "relDate": "Q4 2023",
+      "model": "5",
+      "PCBRev": "1.0",
+      "memory": "2GB",
+      "notes": "Sony UK"
+   },
+   "d03140": {
+      "relDate": "Q4 2020",
+      "model": "CM4",
+      "PCBRev": "1.0",
+      "memory": "8GB",
+      "notes": "Sony UK"
+   },
+   "c03140": {
+      "relDate": "Q4 2020",
+      "model": "CM4",
+      "PCBRev": "1.0",
+      "memory": "4GB",
+      "notes": "Sony UK"
+   },
+   "b03140": {
+      "relDate": "Q4 2020",
+      "model": "CM4",
+      "PCBRev": "1.0",
+      "memory": "2GB",
+      "notes": "Sony UK"
+   },
+   "a03140": {
+      "relDate": "Q4 2020",
+      "model": "CM4",
+      "PCBRev": "1.0",
+      "memory": "1GB",
+      "notes": "Sony UK"
+   },
+   "902120": {
+      "relDate": "Q4 2021",
+      "model": "Zero 2 W",
+      "PCBRev": "1.0",
+      "memory": "512MB",
+      "notes": "Sony UK"
+   },
    "c03130": {
       "relDate": "Q2 2020",
       "model": "Pi 400",
       "PCBRev": "1.0",
       "memory": "4GB",
+      "notes": "Sony UK"
+   },
+   "d03115": {
+      "relDate": "Q3 2021",
+      "model": "4 model B",
+      "PCBRev": "1.5",
+      "memory": "8GB",
+      "notes": "Sony UK"
+   },
+   "c03115": {
+      "relDate": "Q3 2021",
+      "model": "4 model B",
+      "PCBRev": "1.5",
+      "memory": "4GB",
+      "notes": "Sony UK"
+   },
+   "b03115": {
+      "relDate": "Q3 2021",
+      "model": "4 model B",
+      "PCBRev": "1.5",
+      "memory": "2GB",
       "notes": "Sony UK"
    },
    "d03114": {
@@ -69,12 +251,47 @@
       "memory": "512 MB",
       "notes": "(Mfg by Sony)"
    },
+   "a02100": {
+      "relDate": "Q4 2019",
+      "model": "CM3+",
+      "PCBRev": "1.0",
+      "memory": "1GB",
+      "notes": "Sony UK"
+   },
+   "9020e1": {
+      "relDate": "Q4 2019",
+      "model": "3 model A+",
+      "PCBRev": "1.1",
+      "memory": "512MB",
+      "notes": "Sony UK"
+   },
+   "a020d4": {
+      "relDate": "Q1 2019",
+      "model": "3 model B+",
+      "PCBRev": "1.4",
+      "memory": "1GB",
+      "notes": "Sony UK"
+   },
    "a020d3": {
       "relDate": "Q1 2018",
       "model": "3 model B+",
       "PCBRev": "1.3",
       "memory": "1 GB",
       "notes": "(Mfg by Sony)"
+   },
+   "900032": {
+      "relDate": "Q3 2016",
+      "model": "B+",
+      "PCBRev": "1.2",
+      "memory": "512MB",
+      "notes": "Sony UK"
+   },
+   "900061": {
+      "relDate": "Q2 2014",
+      "model": "CM1",
+      "PCBRev": "1.1",
+      "memory": "512MB",
+      "notes": "Sony UK"
    },
    "900021": {
       "relDate": "Q3 2016",
@@ -97,6 +314,13 @@
       "memory": "512 MB",
       "notes": "(Mfg by Sony)"
    },
+   "920092": {
+      "relDate": "Q4 2015",
+      "model": "Zero",
+      "PCBRev": "1.2",
+      "memory": "512MB",
+      "notes": "(Mfg by Embest)"
+   },
    "920093": {
       "relDate": "Q4 2016?",
       "model": "Zero",
@@ -110,6 +334,20 @@
       "PCBRev": "1.1",
       "memory": "512 MB",
       "notes": "(Mfg by Sony)"
+   },
+   "a52082": {
+      "relDate": "Q1 2016",
+      "model": "3 model B",
+      "PCBRev": "1.2",
+      "memory": "1GB",
+      "notes": "(Mfg by Stadium)"
+   },
+   "a22083": {
+      "relDate": "Q4 2017",
+      "model": "3 model B",
+      "PCBRev": "1.3",
+      "memory": "1GB",
+      "notes": "(Mfg by Embest)"
    },
    "a32082": {
       "relDate": "Q4 2016",
@@ -125,6 +363,13 @@
       "memory": "1 GB",
       "notes": "(Mfg by Embest)"
    },
+   "a02042": {
+      "relDate": "Q3 2016",
+      "model": "2 model B (with BCM2837)",
+      "PCBRev": "1.2",
+      "memory": "1GB",
+      "notes": "Sony UK"
+   },
    "a22042": {
       "relDate": "Q3 2016",
       "model": "2 model B (with BCM2837)",
@@ -137,6 +382,13 @@
       "model": "2 model B",
       "PCBRev": "1.1",
       "memory": "1 GB",
+      "notes": "(Mfg by Embest)"
+   },
+   "a220a0": {
+      "relDate": "Q1 2017",
+      "model": "CM3",
+      "PCBRev": "1.0",
+      "memory": "1GB",
       "notes": "(Mfg by Embest)"
    },
    "a020a0": {
