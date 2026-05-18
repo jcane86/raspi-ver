@@ -27,7 +27,7 @@
   "dependencies": {},
   "devDependencies": {
     "chai": "~1.8.1",
-    "mocha": "~1.17.0",
+    "mocha": "~11.7.5",
     "proxyquire": "*",
     "semantic-release": ">=17.2.3"
   },
